@@ -19,7 +19,7 @@ Screenshots (you may want to tap on the images to view in full resolution):
 
 Size 4 with example text vs Cantarell at size 4:
 
-<img src="https://fluorine.sh/images/size4.png" width="369" height="140"/><img src="https://fluorine.sh/images/cantarell4.png" width="369" height="140"/>
+<img src="https://fluorine.sh/images/size4.png" width="269" height="140"/><img src="https://fluorine.sh/images/cantarell4.png" width="269" height="140"/>
 
 Size 5 with example text vs Cantarell at size 5:
 
