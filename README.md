@@ -18,7 +18,9 @@ lowspace (at the current moment) currently supports the first 255 unicode charac
 Screenshots:
 
 Size 4 with example text:
+
 <img src="https://fluorine.sh/images/size4.png" width="369" height="140"/>
 
 Size 5 with example text:
+
 <img src="https://fluorine.sh/images/size5.png" width="369" height="140"/>
