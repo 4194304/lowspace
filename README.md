@@ -1,5 +1,5 @@
 # lowspace
-An extra low DPI font that emphasizes readability.
+An extra low DPI bitmap font that emphasizes readability.
 
 ## What sizes does it have (and what is the preferred resolution?)
 lowspace is meant (at the moment) for very low DPI displays such as 640x360, 800x600, 960x540 among others.
@@ -17,9 +17,9 @@ lowspace (at the current moment) currently supports the first 255 unicode charac
 
 Screenshots:
 
-Size 4 with example text:
+Size 4 with example text vs Cantarell at size 4:
 
-<img src="https://fluorine.sh/images/size4.png" width="369" height="140"/>
+<img src="https://fluorine.sh/images/size4.png" width="369" height="140"/><img src="https://fluorine.sh/images/cantarell4.png" width="369" height="140"/>
 
 Size 5 with example text:
 
