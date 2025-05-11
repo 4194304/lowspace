@@ -13,3 +13,12 @@ lowspace (at the current moment) currently supports the first 255 unicode charac
 * Create an actually decent monospace font
 * Support more scripts
 * Add block character support for size 4
+* Finish up remaining accented characters on size 5
+
+Screenshots:
+
+Size 4 with example text:
+<img src="https://fluorine.sh/images/size4.png" width="369" height="140"/>
+
+Size 5 with example text:
+<img src="https://fluorine.sh/images/size5.png" width="369" height="140"/>
