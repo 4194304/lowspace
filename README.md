@@ -1,5 +1,5 @@
 # lowspace
-The extra low DPI font that tries to be as readable as possible
+An extra low DPI font that tries to be as readable as possible on low resolution displays.
 
 ## What sizes does it have (and what is the preferred resolution?)
 lowspace is meant (at the moment) for very low DPI displays such as 640x360, 800x600, 960x540 among others.
