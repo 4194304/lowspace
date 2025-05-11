@@ -15,7 +15,7 @@ lowspace (at the current moment) currently supports the first 255 unicode charac
 * Add block character support for size 4
 * Finish up remaining accented characters on size 5
 
-Screenshots:
+Screenshots (you may want to tap on the images to view in full resolution):
 
 Size 4 with example text vs Cantarell at size 4:
 
