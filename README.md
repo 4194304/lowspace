@@ -11,8 +11,9 @@ lowspace (at the current moment) currently supports the first 255 unicode charac
 ## To-do list:
 * Size 6
 * Create an actually decent monospace font
-* Support more scripts
-* Add block character support for size 4
+* Support more scripts (for later down the road)
+~~* Add block character support for size 4~~
+~~* Finish size 5 characters up to U+FF~~
 
 Screenshots (you may want to tap on the images to view in full resolution):
 
