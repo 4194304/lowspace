@@ -3,15 +3,16 @@ An extra low DPI font that tries to be as readable as possible on low resolution
 
 ## What sizes does it have (and what is the preferred resolution?)
 lowspace is meant (at the moment) for very low DPI displays such as 640x360, 800x600, 960x540 among others.
-The current sizes of lowspace (in pixel sizes) include 4 and 5px.
+The current sizes of lowspace (in pixel sizes) include 3, 4 and 5px in width.
 
 ## Character support
-lowspace (at the current moment) currently supports the first 255 unicode characters + block characters. I will likely support more characters in the future, but at the current moment the first 255 characters are important.
+lowspace (at the current moment) currently supports the first 255 unicode characters + block characters (unless stated otherwise). I will likely support more characters in the future, but at the current moment the first 255 characters are important.
 
 ## To-do list:
-* Size 6
+* Size 6 (it is in the latest pre-release but not ready in the slightest)
 * Create an actually decent monospace font
 * Support more scripts (for later down the road)
+* Complete size 3 glyphs up to FF and the block characters like 4 and 5
 * ~~Add block character support for size 4~~
 * ~~Finish size 5 characters up to U+FF~~
 
