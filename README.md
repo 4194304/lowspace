@@ -1,4 +1,4 @@
-# Lowspace
+# lowspace
 An extra low DPI font that tries to be as readable as possible on low resolution displays.
 
 ## What sizes does it have (and what is the preferred resolution?)
